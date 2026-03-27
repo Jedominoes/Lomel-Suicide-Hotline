@@ -3,6 +3,14 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.funny {
+    display: flex;
+}
+
+.insane {
+    float: left;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
