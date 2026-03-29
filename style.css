@@ -11,9 +11,10 @@ body {
     padding: 0 10px;
 }
 
-.title {
+.lmsh {
     color: white;
     margin: 0;
+    font-size: 32px
 }
 
 ul {
